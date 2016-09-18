@@ -1,0 +1,2 @@
+This repo contains one pure Java and one Processing example that use stackoverflow user Marco13's RuntimeCompiler utility class to plot user inputed parametric equations!
+This example is intended for Java/Processing programmers who already have an advanced knowledge of data structures, classes in Java, Processing methods and variables, and Exceptions.
